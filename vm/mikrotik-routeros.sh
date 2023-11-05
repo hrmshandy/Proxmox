@@ -234,7 +234,7 @@ msg_ok "Using ${CL}${BL}$STORAGE${CL} ${GN}for Storage Location."
 msg_ok "Virtual Machine ID is ${CL}${BL}$VMID${CL}."
 msg_info "Getting URL for Mikrotik RouterOS Disk Image"
 
-URL=https://download.mikrotik.com/routeros/7.11.2/install-image-7.11.2.zip
+URL=https://download.mikrotik.com/routeros/6.49.10/install-image-6.49.10.zip
 
 sleep 2
 msg_ok "${CL}${BL}${URL}${CL}"
